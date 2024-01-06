@@ -8,10 +8,11 @@ using System.Windows;
 using System.Windows.Navigation;
 
 namespace Web_App
-{ 
+{
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+    ///   /// </summary>
     public partial class App : Application
     {
     }
